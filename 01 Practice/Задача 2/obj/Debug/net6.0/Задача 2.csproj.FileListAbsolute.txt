@@ -1,0 +1,15 @@
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/Задача 2.csproj.AssemblyReference.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/Задача 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/Задача 2.AssemblyInfoInputs.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/Задача 2.AssemblyInfo.cs
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/Задача 2.csproj.CoreCompileInputs.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/bin/Debug/net6.0/Задача 2
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/bin/Debug/net6.0/Задача 2.deps.json
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/bin/Debug/net6.0/Задача 2.runtimeconfig.json
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/bin/Debug/net6.0/Задача 2.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/bin/Debug/net6.0/Задача 2.pdb
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/Задача 2.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/refint/Задача 2.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/Задача 2.pdb
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/Задача 2.genruntimeconfig.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/01 Practice/Задача 2/obj/Debug/net6.0/ref/Задача 2.dll
