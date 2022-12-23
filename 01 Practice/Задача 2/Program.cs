@@ -6,3 +6,4 @@ int max = a ;
 if (b>max) max = b;
 Console.WriteLine($"Наибольшее из двух чисел - {max}");
 
+
