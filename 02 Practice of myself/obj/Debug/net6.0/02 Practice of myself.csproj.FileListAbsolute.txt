@@ -1,0 +1,15 @@
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/02 Practice of myself.csproj.AssemblyReference.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/02 Practice of myself.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/02 Practice of myself.AssemblyInfoInputs.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/02 Practice of myself.AssemblyInfo.cs
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/02 Practice of myself.csproj.CoreCompileInputs.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/bin/Debug/net6.0/02 Practice of myself
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/bin/Debug/net6.0/02 Practice of myself.deps.json
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/bin/Debug/net6.0/02 Practice of myself.runtimeconfig.json
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/bin/Debug/net6.0/02 Practice of myself.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/bin/Debug/net6.0/02 Practice of myself.pdb
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/02 Practice of myself.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/refint/02 Practice of myself.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/02 Practice of myself.pdb
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/02 Practice of myself.genruntimeconfig.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/02 Practice of myself/obj/Debug/net6.0/ref/02 Practice of myself.dll
