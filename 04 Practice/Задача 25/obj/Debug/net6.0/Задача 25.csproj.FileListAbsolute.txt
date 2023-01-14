@@ -1,0 +1,15 @@
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/Задача 25.csproj.AssemblyReference.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/Задача 25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/Задача 25.AssemblyInfoInputs.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/Задача 25.AssemblyInfo.cs
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/Задача 25.csproj.CoreCompileInputs.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/bin/Debug/net6.0/Задача 25
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/bin/Debug/net6.0/Задача 25.deps.json
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/bin/Debug/net6.0/Задача 25.runtimeconfig.json
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/bin/Debug/net6.0/Задача 25.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/bin/Debug/net6.0/Задача 25.pdb
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/Задача 25.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/refint/Задача 25.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/Задача 25.pdb
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/Задача 25.genruntimeconfig.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/04 Practice/Задача 25/obj/Debug/net6.0/ref/Задача 25.dll
