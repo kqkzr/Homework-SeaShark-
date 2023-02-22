@@ -1,0 +1,15 @@
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/Задача 68.csproj.AssemblyReference.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/Задача 68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/Задача 68.AssemblyInfoInputs.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/Задача 68.AssemblyInfo.cs
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/Задача 68.csproj.CoreCompileInputs.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/bin/Debug/net6.0/Задача 68
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/bin/Debug/net6.0/Задача 68.deps.json
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/bin/Debug/net6.0/Задача 68.runtimeconfig.json
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/bin/Debug/net6.0/Задача 68.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/bin/Debug/net6.0/Задача 68.pdb
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/Задача 68.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/refint/Задача 68.dll
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/Задача 68.pdb
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/Задача 68.genruntimeconfig.cache
+/Users/nkt/Desktop/GB Practice/Homework C#/Total /Задача 68/obj/Debug/net6.0/ref/Задача 68.dll
